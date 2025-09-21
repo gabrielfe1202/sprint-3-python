@@ -2,6 +2,15 @@
 
 Este projeto simula o controle de insumos em unidades de diagnóstico
 
+
+---
+
+## Integrantes do grupo
+
+- Gabriel Ferreira Flora Carvalheiro - RM 556476
+- Herbert de Sousa Vilela  - RM 555701
+- Felipe Soares Xavier - RM 556931
+
 ---
 
 ## Funcionalidades
