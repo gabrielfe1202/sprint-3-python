@@ -45,6 +45,17 @@ Este projeto simula o controle de insumos em unidades de diagnóstico
 ### 6. **Quick Sort**
 - **Uso no sistema:** Ordena os insumos pela data de validade. Algoritmo com complexidade O(n²).
 
+### 7. **Recursão Simples**
+- **Uso no sistema:** Calcula o custo mínimo de reabastecimento testando todas as combinações possíveis de pedidos e estoques. Apesar de funcional, tem alto custo computacional por recalcular subproblemas repetidos.
 
+### 8. **Programação Dinâmica**
+#### 8.1 **Função Recursiva **
+- **Uso no sistema:**  Testa todas as combinações possíveis de pedidos e estoques para encontrar o custo mínimo.  
+
+#### 8.2 **Função com Memoização**
+- **Uso no sistema:** Evita recomputar subproblemas já resolvidos, reduzindo o número de chamadas recursivas e aumentando a eficiência.  
+
+#### 8.3 **Função Iterativa** 
+- **Uso no sistema:**  Parte do caso base (último dia) e avança de forma crescente até o primeiro dia, acumulando os menores custos possíveis.  
 
 
